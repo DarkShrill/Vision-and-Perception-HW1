@@ -41,12 +41,15 @@ Here you can find all the starting data of each exercise and all the solutions f
 **Exercise 10:**
 
 [EX 10](https://github.com/DarkShrill/Vision-and-Perception-HW1/blob/master/exercise_10.ipynb)
+
 **Exercise 11:**
 
 [EX 11](https://github.com/DarkShrill/Vision-and-Perception-HW1/blob/master/exercise_11.ipynb)
+
 **Exercise 12:**
 
 [EX 12](https://github.com/DarkShrill/Vision-and-Perception-HW1/blob/master/exercise_12.ipynb)
+
 **Exercise 13:**
 
 [EX 13](https://github.com/DarkShrill/Vision-and-Perception-HW1/blob/master/exercise_13.ipynb)
